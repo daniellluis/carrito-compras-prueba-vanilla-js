@@ -10,3 +10,7 @@ background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(167,201,242,0.2
 .text-center {
     font-size: 50px;
 }
+
+.container {
+    background-color:#6c757d17 ;
+}
