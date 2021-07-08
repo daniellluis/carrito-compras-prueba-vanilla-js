@@ -1,0 +1,5 @@
+[[redireccionamientos]]
+  from = "/ *"
+  to = "/index.html"
+  estado = 200
+  
